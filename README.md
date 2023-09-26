@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🐸
+It's me - Fabeius
+-----------------
+
+I'm currently studying at a university and I need my github page to make my professor happy 🎋
 
 <!--
 **fabeius/fabeius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
